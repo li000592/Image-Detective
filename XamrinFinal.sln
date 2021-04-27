@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final.UWP", "Final\Final.UWP\Final.UWP.csproj", "{C57BEF08-D275-4571-B33A-1B56155E53ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamrinFinal.UWP", "Final\Final.UWP\XamrinFinal.UWP.csproj", "{C57BEF08-D275-4571-B33A-1B56155E53ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final.Android", "Final\Final.Android\Final.Android.csproj", "{6464B52F-B4FC-4F86-8940-DB8B6A413A66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamrinFinal.Android", "Final\Final.Android\XamrinFinal.Android.csproj", "{6464B52F-B4FC-4F86-8940-DB8B6A413A66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final.iOS", "Final\Final.iOS\Final.iOS.csproj", "{42C90BFE-5A78-4027-8DA7-712DEA00BBD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamrinFinal.iOS", "Final\Final.iOS\XamrinFinal.iOS.csproj", "{42C90BFE-5A78-4027-8DA7-712DEA00BBD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "Final\Final\Final.csproj", "{8C9EB7AD-2AAA-4B03-847D-0812A577D0F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamrinFinal", "Final\Final\XamrinFinal.csproj", "{8C9EB7AD-2AAA-4B03-847D-0812A577D0F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

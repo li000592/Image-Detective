@@ -6,7 +6,7 @@
 
     <NavigationPage.TitleView>
         <StackLayout Orientation="Horizontal">
-            <Label Text="MAD9146 FINAL Camilo-Haorong" VerticalOptions="Center" HorizontalOptions="StartAndExpand" TextColor="White" FontSize="Medium"/>
+            <Label Text="Picture AI Recognition" VerticalOptions="Center" HorizontalOptions="StartAndExpand" TextColor="White" FontSize="Medium"/>
             <Button x:Name="settingsButton" Background="transparent" HorizontalOptions="EndAndExpand" FontFamily="FA-S" FontSize="Medium" Text="{StaticResource IconCog}" TextColor="White" Clicked="settingsButton_Clicked"/>
         </StackLayout>        
     </NavigationPage.TitleView>
